@@ -26,11 +26,12 @@ Os Visitantes devem conseguir:
 
 ### Links
 
-- Live Site URL: [New Homepage](https://your-live-site-url.com)
+- Live Site URL: [New Homepage](https://main--superlative-starship-18e7c7.netlify.app/)
 
 ## Nota:
 
 Este desafio foi feito com a bootstrap e Media Queries para responsividade entre tamanho de telas.
+Infelizmente eu não consegui o fazer com que na passagem de tamanho de telas até o tamanho que o desafio pedia fosse 'suave'
 
 ## Autora
 
