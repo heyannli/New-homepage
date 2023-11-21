@@ -32,7 +32,7 @@ Os Visitantes devem conseguir:
 
 ### Links
 
-- Live Site URL: [New Homepage](https://main--superlative-starship-18e7c7.netlify.app/)
+- Live Site URL: [New Homepage](https://newhomepage-mentor.netlify.app)
 
 ## Nota:
 
