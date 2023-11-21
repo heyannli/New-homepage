@@ -21,8 +21,14 @@ Os Visitantes devem conseguir:
 - Elementos Interativos ao passar o mouse.
 
 ### Screenshot
+ <div>
+  <h5>Versão Desktop</h5>
+  <img src="https://user-images.githubusercontent.com/150404073/284676073-bbf8badd-64e4-4fcc-851c-68a862dea15d.jpeg">
 
+  <h5>Versão Mobile</h5>
+  <img src="https://user-images.githubusercontent.com/150404073/284676077-ba320299-ba12-48af-aba4-bfc7ee554231.jpeg">
 
+  </div>
 
 ### Links
 
