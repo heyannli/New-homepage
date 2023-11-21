@@ -1,2 +1,39 @@
-# New homepage
- Mentor Challenge New Homepage Solucion
+# Frontend Mentor - News homepage solução
+
+Esta é a solução do [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).  
+
+## Navegação
+
+- [Visão Geral](#visão-geral)
+  - [O Desafio](#o-desafio)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+
+## Visão Geral
+
+### O Desafio
+
+Uma inferface de uma Página de Noticias com responsividade de acordo com o tamanho da tela e com componentes interativos.
+
+Os Visitantes devem conseguir:
+
+- Ver um layout responsivo de acordo com o tamanho de tela;
+- Elementos Interativos ao passar o mouse.
+
+### Screenshot
+
+
+
+### Links
+
+- Live Site URL: [New Homepage](https://your-live-site-url.com)
+
+## Nota:
+
+Este desafio foi feito com a bootstrap e Media Queries para responsividade entre tamanho de telas.
+
+## Autora
+
+- Website - [heyannli](https://www.heyannli.online)
+- Frontend Mentor - [@heyannli](https://www.frontendmentor.io/profile/heyannli)
+

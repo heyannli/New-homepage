@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+
+:root {
+
+     --soft-orange:#e9ab53;
+        --soft-red:#f15e50;
+       --off-white:#fffdfa;
+    --grayish-blue:#c5c6ce;
+    --grayishblue2:#5d5f79;
+       --dark-blue:#00001a;
+
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: var(--off-white);
+}
+
+.hero_mobile {
+    display: none;
+}
+.container-fluid {
+    padding: 0;
+}
+
+.nav-link {
+    text-transform: capitalize;
+}
+
+.nav_right {
+    justify-content: end;
+}
+
+.container {
+    padding: 1em;
+}
+
+.hero_content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: .2em;
+    gap: 1em;
+}
+
+._view {
+    width: 56vw;
+}
+
+.hero_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    text-transform: capitalize;
+    width: 250px;
+    font-weight: 800;
+}
+
+p {
+    font-size: 15px;
+}
+
+.readmore {
+    text-decoration: none;
+    color: var(--off-white);
+    background-color: var(--soft-red);
+    padding: .2em 1em;
+    border-radius: 2px;
+    width: 35%;
+    font-size: 13px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.readmore:hover {
+    background-color: var(--soft-orange);
+}
+
+.new_card {
+    background: var(--dark-blue);
+    height: 90%;
+    padding: .3em 1em;
+    color: var(--soft-orange);
+}
+
+h4 {
+    color: var(--off-white);
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.news {
+    padding: .7em 0;
+    margin: .5em 0;
+    color: var(--off-white);
+    font-weight: 400;
+}
+
+.news p {
+    font-size: 14px;
+    color: var(--grayishblue2);
+}
+
+.line {
+    padding: .1px 10%;
+    position: absolute;
+    background: var(--off-white);
+}
+
+.sub_noticia {
+    display: flex;
+    gap: 2.5em;
+}
+
+.sub {
+    display: flex;
+    gap: 1em;
+}
+
+h5 {
+    font-weight: 800;
+    color: var(--grayish-blue);
+    font-size: 22px;
+}
+
+h6 {
+    color: var(--dark-blue);
+    font-weight: 700;
+}
+
+.sub p {
+    color: var(--grayishblue2);
+    font-size: 14px;
+}
+
+
+@media screen and (max-width: 720px) {
+
+    h1 {
+        width: 100%;
+    }
+
+    .hero_desktop {
+        display: none;
+    }
+
+    ._view {
+        width: 90vw;
+    }
+
+    .hero_mobile {
+        display: block;
+    }
+
+    .hero_content {
+        grid-template-columns: 1fr;
+        padding: .8em 0;
+    }
+
+    .new_card {
+        margin: 0 .8em;
+        width: 95%;
+    }
+
+    .sub_noticia {
+        margin-top: 2em;
+        gap: 1.5em;
+    }
+} 
